@@ -21,7 +21,7 @@
 ---
 
 ### 📊 GitHub Status
-- ⚙️ **Current Mission:** ??? What am i doing right now. 
+- ⚙️ **Current Mission:** ❓ What am I doing right now. 
 - 🐛 **Favorite Hobby:** Fixing 1 bug and creating 3 new ones.
 - 🎯 **Goal:** Surrounding myself with clean code, and passable English grades.
 
