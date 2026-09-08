@@ -1,12 +1,11 @@
 # Hi there, I'm Yoyo-ace1110 👋
-> *"High school student by day, bug provider by night"*
 
 ---
 
 ### 💻 About Me
 - **School:** High school student at 🟦**HSNU**.
--  **Python:** My daily driver for making 🐍games and breaking things.
--  **Fortran:** Yes, Fortran. I somehow ended up touching 🦕ancient magic.
+- **Python:** My daily driver for making 🐍games and breaking things.
+- **Fortran:** Yes, Fortran. I somehow ended up touching 🦕ancient magic.
 - **C++:** For when Python is too slow and I want 👉pointers to memory-leak in style.
 - **English Level:** 🌐English is hard, but **Google Translate** is forever.
 
@@ -21,7 +20,7 @@
 ---
 
 ### 📊 GitHub Status
-- ⚙️ **Current Mission:** ❓ What am I doing right now. 
+- ⚙️ **Current Mission:** What am I doing right now ❓
 - 🐛 **Favorite Hobby:** Fixing 1 bug and creating 3 new ones.
 - 🎯 **Goal:** Surrounding myself with clean code, and passable English grades.
 
