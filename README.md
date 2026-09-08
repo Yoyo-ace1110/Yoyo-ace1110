@@ -7,8 +7,8 @@
 - **School:** High school student at 🟦**HSNU**.
 -  **Python:** My daily driver for making 🐍games and breaking things.
 -  **Fortran:** Yes, Fortran. I somehow ended up touching 🦕ancient magic.
-- **C++:** For when Python is too slow and I want pointers to memory-leak in style.
-- **English Level:** 🌐English is hard, but **Google Translate** is the best invention in the world.
+- **C++:** For when Python is too slow and I want 👉pointers to memory-leak in style.
+- **English Level:** 🌐English is hard, but **Google Translate** is forever.
 
 ---
 
